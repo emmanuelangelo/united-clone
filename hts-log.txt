@@ -1,0 +1,59 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 30 Mar 2022 15:54:05 at https://www.ubagroup.com/alumni/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.ubagroup.com/alumni/ -O1 "C:\Users\Emmanuel LEO\Downloads\united" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:55:27	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.ubagroup.com/alumni/)
+15:55:27	Error: 	"Forbidden" (403) at link https://www.ubagroup.com/alumni/xmlrpc.php (from https://www.ubagroup.com/alumni/)
+15:56:21	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/ (from https://www.ubagroup.com/alumni/)
+15:56:21	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/wp/v2/pages/77 (from https://www.ubagroup.com/alumni/)
+15:56:21	Error: 	"Forbidden" (403) at link https://www.ubagroup.com/alumni/xmlrpc.php?rsd (from https://www.ubagroup.com/alumni/)
+15:56:21	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2F (from https://www.ubagroup.com/alumni/)
+15:56:21	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2F&format=xml (from https://www.ubagroup.com/alumni/)
+15:57:49	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/wp/v2/pages/148 (from https://www.ubagroup.com/alumni/about-uba-alumni/)
+15:57:49	Warning: 	Moved Permanently for https://www.ubagroup.com/alumni/?p=148
+15:57:49	Warning: 	File has moved from https://www.ubagroup.com/alumni/?p=148 to https://www.ubagroup.com/alumni/about-uba-alumni/
+15:57:49	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2Fabout-uba-alumni%2F (from https://www.ubagroup.com/alumni/about-uba-alumni/)
+15:57:49	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2Fabout-uba-alumni%2F&format=xml (from https://www.ubagroup.com/alumni/about-uba-alumni/)
+15:57:50	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/wp/v2/pages/14 (from https://www.ubagroup.com/alumni/our-focus)
+15:57:50	Warning: 	Moved Permanently for https://www.ubagroup.com/alumni/?p=14
+15:57:50	Warning: 	File has moved from https://www.ubagroup.com/alumni/?p=14 to https://www.ubagroup.com/alumni/our-focus
+15:57:50	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2Four-focus (from https://www.ubagroup.com/alumni/our-focus)
+15:57:50	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2Four-focus&format=xml (from https://www.ubagroup.com/alumni/our-focus)
+15:57:51	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/wp/v2/pages/126 (from https://www.ubagroup.com/alumni/leadership)
+15:57:51	Warning: 	Moved Permanently for https://www.ubagroup.com/alumni/?p=126
+15:57:51	Warning: 	File has moved from https://www.ubagroup.com/alumni/?p=126 to https://www.ubagroup.com/alumni/leadership
+15:57:51	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2Fleadership (from https://www.ubagroup.com/alumni/leadership)
+15:57:51	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2Fleadership&format=xml (from https://www.ubagroup.com/alumni/leadership)
+15:57:51	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/wp/v2/pages/437 (from https://www.ubagroup.com/alumni/gallery)
+15:57:51	Warning: 	Moved Permanently for https://www.ubagroup.com/alumni/?p=437
+15:57:51	Warning: 	File has moved from https://www.ubagroup.com/alumni/?p=437 to https://www.ubagroup.com/alumni/gallery
+15:57:52	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2Fgallery (from https://www.ubagroup.com/alumni/gallery)
+15:57:52	Error: 	"Not Implemented" (501) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2Fgallery&format=xml (from https://www.ubagroup.com/alumni/gallery)
+15:57:53	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/wp/v2/pages/104 (from https://www.ubagroup.com/alumni/contact-us)
+15:57:53	Warning: 	Moved Permanently for https://www.ubagroup.com/alumni/?p=104
+15:57:53	Warning: 	File has moved from https://www.ubagroup.com/alumni/?p=104 to https://www.ubagroup.com/alumni/contact-us
+15:57:53	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2Fcontact-us (from https://www.ubagroup.com/alumni/contact-us)
+15:57:54	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/wp/v2/pages/91 (from https://www.ubagroup.com/alumni/membership)
+15:57:54	Warning: 	Moved Permanently for https://www.ubagroup.com/alumni/?p=91
+15:57:54	Warning: 	File has moved from https://www.ubagroup.com/alumni/?p=91 to https://www.ubagroup.com/alumni/membership
+15:57:54	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2Fmembership (from https://www.ubagroup.com/alumni/membership)
+15:57:54	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2Fmembership&format=xml (from https://www.ubagroup.com/alumni/membership)
+15:57:55	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/wp/v2/posts/445 (from https://www.ubagroup.com/alumni/uba-alumni-launch)
+15:57:55	Warning: 	Moved Permanently for https://www.ubagroup.com/alumni/?p=445
+15:57:55	Warning: 	File has moved from https://www.ubagroup.com/alumni/?p=445 to https://www.ubagroup.com/alumni/uba-alumni-launch?p=445
+15:57:57	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ubagroup.com%2Falumni%2Fuba-alumni-launch (from https://www.ubagroup.com/alumni/uba-alumni-launch)
+15:58:00	Error: 	"Not Found" (404) at link https://www.ubagroup.com/alumni/Trident/ (from https://www.ubagroup.com/alumni/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+15:58:00	Error: 	"Not Found" (404) at link https://www.ubagroup.com/alumni/Edge/ (from https://www.ubagroup.com/alumni/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+15:58:00	Error: 	"Not Found" (404) at link https://www.ubagroup.com/alumni/Gecko/ (from https://www.ubagroup.com/alumni/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+15:58:00	Error: 	"Not Found" (404) at link https://www.ubagroup.com/alumni/Firefox/ (from https://www.ubagroup.com/alumni/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+15:58:00	Error: 	"Not Found" (404) at link https://www.ubagroup.com/alumni/Version/ (from https://www.ubagroup.com/alumni/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+15:58:01	Error: 	"Not Found" (404) at link https://www.ubagroup.com/alumni/version/ (from https://www.ubagroup.com/alumni/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+15:58:01	Error: 	"Not Found" (404) at link https://www.ubagroup.com/alumni/-negative.svg (from https://www.ubagroup.com/alumni/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.1.1)
+15:58:01	Error: 	"Unauthorized" (401) at link https://www.ubagroup.com/alumni/wp-json/wp/v2/categories/1 (from https://www.ubagroup.com/alumni/category/uncategorized/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 57 seconds : 294 links scanned, 251 files written (17275491 bytes overall) [11396955 bytes received at 48088 bytes/sec], 10722317 bytes transferred using HTTP compression in 179 files, ratio 39%, 12.3 requests per connection
+(34 errors, 14 warnings, 0 messages)
